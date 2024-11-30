@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Web-pleniere-APV3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89F5E95B0EF7425192F1898784425B0B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1A49228DA3D4FAF99C52D2FAE3976E0 }}
